@@ -10,6 +10,26 @@ venv/
 # Environment variables
 .env
 
+# Logs
+*.log
+
+# Power BI temporary files
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db# IntelliJ
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment variables
+.env
+
 # Generated data
 data/processed/
 *.log
